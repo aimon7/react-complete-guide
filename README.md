@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# React the complete guide
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the repository of the udemy course [React the complete guide, including Redux](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+Every commit will be in the end of each module.
 
 ## Available Scripts
 
